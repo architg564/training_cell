@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "859227498924",
+    "firebase_url": "https://training-cell.firebaseio.com",
+    "project_id": "training-cell",
+    "storage_bucket": "training-cell.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859227498924:android:e05c2831bfbc774ac7f209",
+        "android_client_info": {
+          "package_name": "com.example.training_cell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "859227498924-koacl6utpsfl5jmj19l4u9r0sdemd7or.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.training_cell",
+            "certificate_hash": "ba30b1562e14bfe6f22b1aa8ac613194acd5dc42"
+          }
+        },
+        {
+          "client_id": "859227498924-61nokh7nffcoeic2ud5606u9ogc7i8nv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5KWBDcsjAccKIV3-glLXOOi0kdSwZdpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "859227498924-61nokh7nffcoeic2ud5606u9ogc7i8nv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
